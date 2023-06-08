@@ -1,2 +1,2 @@
-# necksos.github.io
+# necksos.ai
 The official NecksosAI Website
